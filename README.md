@@ -1,3 +1,3 @@
 "# Terrormonkey-universal-MPV-Anilist-Script" 
 
-# PLEASE READ INSTALLATION GUIDE
+# PLEASE READ SETUP GUIDE
